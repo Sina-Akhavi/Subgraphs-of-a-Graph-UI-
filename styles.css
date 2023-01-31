@@ -1,0 +1,34 @@
+.cy {
+  width: 24%;
+  height: 200px;
+  
+  display: inline-block;
+  border: 3px solid salmon;
+}
+
+h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#main-graph {
+  width: 100%;
+  height: 250px;
+  padding: 15px;
+  /* text-align: center; */
+  /* float: left; */
+}
+ 
+p {
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: brown;
+} 
+
+p.style-p {
+  text-align: left;
+  color: rgb(125, 8, 8);
+}
